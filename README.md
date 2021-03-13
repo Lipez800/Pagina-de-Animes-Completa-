@@ -1,8 +1,6 @@
 # Pagina-de-Animes-Completa-
 Uma pagina Feita por min usando a base de um template de uma pagina de loja do Adobe Dreamweaver. No geral parece um Netflix.  
-Ela esta na ultima versão so atualizarei caso voces Peçam.
-O aquivo tem uma senha que esta 
-
+Ela esta na ultima versão so atualizarei caso voces Peçam. 
 
 
 Redes Sociais:
